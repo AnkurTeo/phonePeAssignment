@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7D1AEE40-FE20-4068-8669-A701C15C7274"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "840A469E-2DA9-4BCD-B07D-BEFA5C5608BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhonePeMachineCodingRound/CommonUtilities/UIImageView+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "511659C1-432B-4F52-8476-8911F84C6586"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhonePeMachineCodingRound/CommonUtilities/UIImageView+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9805E239-7ADF-4959-B5EE-39187834B737"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhonePeMachineCodingRound/CommonUtilities/UIImageView+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9805E239-7ADF-4959-B5EE-39187834B737 - 38d3af26cbd7347b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "PhonePeMachineCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankur/Downloads/PhonePeMachineCodingRound/PhonePeMachineCodingRound/CommonUtilities/UIImageView+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "9805E239-7ADF-4959-B5EE-39187834B737 - dcb001406a13e813"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "PhonePeMachineCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankur/Downloads/PhonePeMachineCodingRound/PhonePeMachineCodingRound/CommonUtilities/UIImageView+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AD465E6-3F51-4694-BBBC-DF8E9670AE3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhonePeMachineCodingRound/CommonUtilities/UIImageView+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5AD465E6-3F51-4694-BBBC-DF8E9670AE3B - 38d3af26cbd7345c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "PhonePeMachineCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankur/Downloads/PhonePeMachineCodingRound/PhonePeMachineCodingRound/CommonUtilities/UIImageView+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "5AD465E6-3F51-4694-BBBC-DF8E9670AE3B - 38d3af26cbd7345c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "PhonePeMachineCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankur/Downloads/PhonePeMachineCodingRound/PhonePeMachineCodingRound/CommonUtilities/UIImageView+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
